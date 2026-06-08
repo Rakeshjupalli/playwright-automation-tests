@@ -10,8 +10,8 @@ import { PremiumSummaryPage } from '../pages/PremiumSummaryPage.js';
  * 2. Select Health Insurance module
  * 3. Select HDFC ERGO Optima Secure product
  * 4. Configure for individual ("You" option)
- * 5. Fill demographics (age, city)
- * 6. Navigate through wizard to premium summary
+ * 5. Fill demographics (age, pincode)
+ * 6. Navigate through to premium summary
  * 7. Extract base premium, rider costs, and total premium
  * 8. Validate: Total Premium = Base Premium + Selected Riders + GST
  */
