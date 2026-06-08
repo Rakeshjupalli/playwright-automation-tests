@@ -12,7 +12,7 @@ import { PremiumSummaryPage } from '../pages/PremiumSummaryPage.js';
  * 4. Configure for individual ("You" option)
  * 5. Fill demographics (age, city)
  * 6. Navigate through wizard to premium summary
- * 7. Extract base premium, rider costs, GST, and total premium
+ * 7. Extract base premium, rider costs, and total premium
  * 8. Validate: Total Premium = Base Premium + Selected Riders + GST
  */
 test.describe('Ditto Insurance - HDFC ERGO Premium Validation', () => {
